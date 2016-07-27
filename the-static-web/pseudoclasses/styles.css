@@ -1,6 +1,6 @@
 /*CSS pseudo-class exercise
 /*Currently, the <li> items are block level elements. Add correct styles 
-to remove the bullets and display them as inline elements.
+to remove the bullets and display them as inline elements.pseudo-class
 */
 .block {
 	list-style: none;
