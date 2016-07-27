@@ -1,4 +1,4 @@
-# Front End Exercises-currently in progress of organizing exercises and pushing to repo
+# Front End Exercises-currently in progress of organizing exercises and pushing to repo.
 
 This repo contains exercises completed during the first three months at Nashville Software School.
 
