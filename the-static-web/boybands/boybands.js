@@ -1,7 +1,7 @@
 var bands = ["Boyz II Men", "NSync", "New Kids on the Block", "98 Degrees", "One Direction"];
 var vegetables = ["Carrots", "Kale", "Zucchini", "Broccoli", "Squash"];
 
-// The number of loops to perform (what if the array changes?)
+// The number of loops to perform...
 var loopCount = bands.length;
 
 // Keep track of which band we're on in the loop
